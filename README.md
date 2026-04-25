@@ -1,4 +1,3 @@
-# HOUSE_PRICE
 # 🏠 House Price Prediction
 
 ## Problem Statement
